@@ -11,10 +11,6 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/JooJiyun/morethan-log",
-    },
   ],
   // blog setting (required)
   blog: {
