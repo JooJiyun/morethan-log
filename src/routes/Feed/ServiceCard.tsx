@@ -11,6 +11,7 @@ const ServiceCard: React.FC = () => {
       <StyledTitle>
         <Emoji>🌟</Emoji> Service
       </StyledTitle>
+      {/*
       <StyledWrapper>
         {CONFIG.projects.map((project, idx) => (
           <a
@@ -24,6 +25,7 @@ const ServiceCard: React.FC = () => {
           </a>
         ))}
       </StyledWrapper>
+       */}
     </>
   )
 }
